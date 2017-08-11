@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR World Population Counter
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: World Population Counter 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/world-population-"
+"counter\n"
+"POT-Creation-Date: 2017-07-04 19:37+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: world-population-counter.php:95
+#: includes/admin/class-alg-settings-world-population-counter.php:89
+msgid "Settings"
+msgstr ""
+
+#: world-population-counter.php:96
+msgid "Buy us a coffee"
+msgstr ""
+
+#: includes/class-alg-widget-world-population-counter.php:25
+msgid "World Population Counter Widget"
+msgstr ""
+
+#: includes/class-alg-widget-world-population-counter.php:27
+#: includes/admin/class-alg-settings-world-population-counter.php:45
+#: includes/admin/class-alg-settings-world-population-counter.php:62
+#: includes/admin/class-alg-settings-world-population-counter.php:154
+msgid "World Population Counter"
+msgstr ""
+
+#: includes/class-alg-widget-world-population-counter.php:57
+msgid "Title:"
+msgstr ""
+
+#: includes/admin/class-alg-settings-world-population-counter.php:44
+msgid "World Population Counter Settings"
+msgstr ""
+
+#: includes/admin/class-alg-settings-world-population-counter.php:96
+msgid "Update Rate (Seconds)"
+msgstr ""
+
+#: includes/admin/class-alg-settings-world-population-counter.php:104
+msgid "Script Type"
+msgstr ""
+
+#: includes/admin/class-alg-settings-world-population-counter.php:112
+msgid "Style"
+msgstr ""
+
+#: includes/admin/class-alg-settings-world-population-counter.php:153
+#, php-format
+msgid "Counter can be added via: %s widget, %s shortcode or %s PHP function."
+msgstr ""
+
+#: includes/admin/class-alg-settings-world-population-counter.php:184
+msgid "AJAX"
+msgstr ""
+
+#: includes/admin/class-alg-settings-world-population-counter.php:185
+msgid "Simple JS"
+msgstr ""
+
+#: includes/admin/class-alg-settings-world-population-counter.php:187
+msgid "AJAX is more accurate. Simple JS requires less resources."
+msgstr ""
